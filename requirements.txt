@@ -1,0 +1,4 @@
+colorama==0.4.1
+dingtalkchatbot==1.5.3
+pypushdeer==0.0.3
+requests==2.22.0
